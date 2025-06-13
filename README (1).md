@@ -4,7 +4,7 @@
 This project uses a Convolutional Neural Network (CNN) to detect and classify plant leaf diseases from images. It is built using TensorFlow and trained on a dataset of labeled leaf images.
 
 ## 📁 Dataset
-- **Path**: Google Drive – `/content/drive/MyDrive/DA project 2`
+- **Path**: Google Drive – `https://drive.google.com/drive/folders/1pGoT3TOhDvFWUDSV_7QZrjjw-JqPU8pD?usp=sharing`
 - **Format**: Directory structure with subfolders for each class (disease category).
 - **Split**: Automatically split into training and validation sets (80/20).
 
